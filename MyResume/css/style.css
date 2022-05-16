@@ -1,0 +1,19 @@
+.kirmizi{
+    color: red;
+    text-align: right;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.kutu{
+    width: 70%;
+    height: 70px;
+    background-color: blueviolet;
+    border: 10px solid rgb(155, 18, 137);
+    border-top-left-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
